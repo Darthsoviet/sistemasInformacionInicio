@@ -1,0 +1,1 @@
+export {PedidoMetaData} from "./PedidoMetaData.component";
